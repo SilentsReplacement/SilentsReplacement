@@ -1,10 +1,6 @@
 ### Hi I'm SilentsReplacement. 👋
 
-I'm a proficient game developer, who has hardcore experience in Luau and game development. I'm currently
-working for [Frappe](https://www.roblox.com/groups/950346/Frapp#!/about) as the main scripter and 
-as the lead developer of my own group, [PerduxStudios](https://www.roblox.com/groups/8876330/Perdux-Studios#!/about). I've contributed to many
-open sourced libraries and utilities and also like teaching others useful knowledge and solving different problems many developers may have.
-
+I'm a proficient game developer, who has hardcore experience in Luau and game development. Systems engineer fo [Frappe](https://www.roblox.com/groups/950346/Frapp#!/about) and owner of [PerduxStudios](https://www.roblox.com/groups/8876330/Perdux-Studios#!/about).
 If you want to see some of my contributions:
 
 - [Understanding CFrames](https://devforum.roblox.com/t/understanding-cframes/998905)
