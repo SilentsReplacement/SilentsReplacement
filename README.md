@@ -4,7 +4,7 @@ I'm a proficient game developer, who has hardcore experience in Luau and game de
 
 If you want to see some of my contributions to dev forum:
 
-- [Small article on CFrames](https://devforum.roblox.com/t/small-article-on-cframes/998905)
+- [Article on CFrames](https://devforum.roblox.com/t/small-article-on-cframes/998905)
 
 Here's the link to my repository which holds my modules: https://github.com/angrybino/Modules
 
