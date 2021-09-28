@@ -1,4 +1,4 @@
-Proficient game developer, currently working as:
+Proficient game developer, currently working as a:
 
 - Systems engineer for [Frappé](https://www.roblox.com/groups/950346/Frapp#!/about).
 - Programmer for [The Nighthawk Imperium Systems](https://www.roblox.com/groups/1174414/The-Nighthawk-Imperium#!/about).
